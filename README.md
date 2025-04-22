@@ -1,9 +1,8 @@
-I am a dedicated computer science student at Bennett University, combining a solid foundation in Data Structures and Algorithms (DSA) with practical expertise in software and web development. Proficient in languages like C++, Python, Java, Dart, and JavaScript, I also excel with frameworks such as Tailwind, Next.js, React.js, and Flutter, allowing me to build dynamic and responsive applications. My enthusiasm for cloud computing, particularly with AWS, equips me with the skills to design and implement scalable, efficient, and secure cloud-based solutions.My diverse technical abilities and commitment to continuous learning drive my ambition to make a significant impact in the tech industry.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshit2941&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshit2941&theme=darcula&hide_border=true&background=00000000" />
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=akshit2941&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshit2941&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=akshit2941.akshit2941)
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=akshit2941.akshit2941" alt="visitor badge"/>
+</p>
