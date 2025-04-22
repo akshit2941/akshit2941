@@ -6,4 +6,4 @@ I am a dedicated computer science student at Bennett University, combining a sol
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=akshit2941&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=akshit2941.akshit2941)
