@@ -4,5 +4,6 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=akshit2941.akshit2941" alt="visitor badge"/>
+<!--   <img src="https://visitor-badge.laobi.icu/badge?page_id=akshit2941.akshit2941" alt="Visitor Badge" /> -->
+  <img src="https://komarev.com/ghpvc/?username=akshit2941&color=yellow" alt="Profile Views" />
 </p>
